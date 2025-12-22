@@ -48,6 +48,7 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding|2025|[Paper](https://arxiv.org/pdf/2511.12449)|Unreleased|
 |ReMatch: Boosting Representation through Matching for Multimodal Retrieval|2025|[Paper](https://arxiv.org/pdf/2511.19431)|[Github](https://github.com/FireRedTeam/ReMatch)|
 |FANoise: Singular Value-Adaptive Noise Modulation for Robust Multimodal Representation Learning|2025|[Paper](https://arxiv.org/pdf/2511.20997)|Unreleased|
+|Reasoning Guided Embeddings: Leveraging MLLM Reasoning for Improved Multimodal Retrieval|2025|[Paper](https://arxiv.org/pdf/2511.16150)|[Github](https://github.com/MCG-NJU/RGE)|
 
 
 
