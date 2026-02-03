@@ -52,6 +52,7 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization|2025|[Paper](https://arxiv.org/pdf/2511.01588)|[Github](https://github.com/Xu3XiWang/PDF-VLM2Vec)|
 |e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings|2026|[Paper](https://arxiv.org/pdf/2601.03666)|[Huggingface](https://huggingface.co/Haon-Chen/e5-omni-7B)|
 |Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking|2026|[Paper](https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf)|[Huggingface](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)|
+|ObjEmbed: Towards Universal Multimodal Object Embeddings|2026|[Paper](https://arxiv.org/pdf/2602.01753)|[Github](https://github.com/WeChatCV/ObjEmbed)|
 
 
 
