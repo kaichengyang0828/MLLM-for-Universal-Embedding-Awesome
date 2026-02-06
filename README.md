@@ -53,6 +53,8 @@ A curated collection of cutting-edge research papers on universal multimodal emb
 |e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings|2026|[Paper](https://arxiv.org/pdf/2601.03666)|[Huggingface](https://huggingface.co/Haon-Chen/e5-omni-7B)|
 |Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking|2026|[Paper](https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf)|[Huggingface](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)|
 |ObjEmbed: Towards Universal Multimodal Object Embeddings|2026|[Paper](https://arxiv.org/pdf/2602.01753)|[Github](https://github.com/WeChatCV/ObjEmbed)|
+｜V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval|2026|[Paper](https://arxiv.org/pdf/2602.06034)|[Github](https://github.com/chendy25/V-Retrver)|
+|Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs|2026|[Paper](https://arxiv.org/pdf/2602.05275)|Unreleased|
 
 
 
